@@ -1,2 +1,2 @@
-# y-ld-z-verme
-siteye yıldız vermeni sağlar
+# let you rating for your site
+let you rating for your site
